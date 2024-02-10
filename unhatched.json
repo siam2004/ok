@@ -1,0 +1,16 @@
+{
+    "name": "Tounem",
+    "description":" ERC404. .",
+    "image": "https://raw.githubusercontent.com/siam2004/ok/main/tokenka.gif",
+    "external_url":"https://tounem.com/",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "status",
+        "value": "unhatched"
+      }
+    ]
+  }
